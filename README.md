@@ -38,15 +38,15 @@
    - Train and evaluate all three models
    - Visualize performance metrics
 
-📌 Limitations
+## 📌 Limitations
 Class imbalance in the dataset (only 0.12% are fraud cases)
 CNN model could benefit from further tuning and architectural optimization
 Model currently tested on a synthetic dataset (not real financial data)
 
-💡 Future Enhancements
+## 💡 Future Enhancements
 Integrate real time fraud alert systems
 Experiment with ensemble and deep learning models (e.g., LSTM, Autoencoders)
 Deploy in a cloud environment (e.g., AWS Lambda or GCP Functions)
 
-📄 License
+## 📄 License
 This project is for educational purposes only. Not intended for production without further validation and regulatory compliance.
