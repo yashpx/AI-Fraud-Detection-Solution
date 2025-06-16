@@ -31,14 +31,9 @@
 
 ## ⚙️ How to Use
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yashpx/ai-fraud-detection.git
-   cd ai-fraud-detection
+1. Open the CSCI323_Project.ipynb notebook in Jupyter or Colab.
 
-2. Open the CSCI323_Project.ipynb notebook in Jupyter or Colab.
-
-3. Run the notebook cell by cell to:
+2. Run the notebook cell by cell to:
    - Load and preprocess the data
    - Train and evaluate all three models
    - Visualize performance metrics
